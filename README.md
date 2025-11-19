@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Darlan Silva!  
+# 👋 Olá! Eu sou o Darlan Pereira!  
 
 <!-- HEADER -->
 <div align="center">
