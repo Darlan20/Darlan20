@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre Mim
 <div align="center">
-Desenvolvedor apaixonado por tecnologia, com 21 anos e experiência em diversas stacks de desenvolvimento.  
+Desenvolvedor apaixonado por tecnologia, com 21 anos, experiência em diversas stacks de desenvolvimento.  
 Atuo tanto no backend quanto no frontend, criando soluções completas e eficientes.
 </div>
 
