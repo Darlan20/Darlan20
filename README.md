@@ -65,18 +65,6 @@ Busco me tornar um desenvolvedor full stack completo, dominando as melhores tecn
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=darlansilva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlansilva&layout=compact&langs_count=8&theme=blue-green&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=ffffff"/>
-
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=darlansilva&theme=blue-green&hide_border=true&background=00000000&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00BFFF"/>
-
-</div>
-
 ## 🎯 Foco de Estudos
 
 <div align="center">
