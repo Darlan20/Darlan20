@@ -1,177 +1,135 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d0d0d,50:001a0d,100:0d0d0d&text=CAUÃ%20BARCELLOS&fontSize=60&fontColor=00ff9d&stroke=00ff9d&strokeWidth=2&animation=twinkling&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20Salvador%2C%20BA%20🇧🇷&descSize=16&descFontColor=888888&descAlignY=75" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/caua-sousa-30035b382">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/caua_sousa08">
-    <img src="https://img.shields.io/badge/Instagram-00ff9d?style=for-the-badge&logo=instagram&logoColor=0d0d0d&labelColor=0d0d0d" />
-  </a>
-  &nbsp;
-  <a href="mailto:cauasousa9911@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00ff9d?style=for-the-badge&logo=gmail&logoColor=0d0d0d&labelColor=0d0d0d" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=csbarcellos-tk&style=for-the-badge&color=00ff9d&labelColor=0d0d0d&label=VISITANTES" />
-</div>
-
-<br/>
-
----
-
-<img align="right" width="380" src="https://github-readme-activity-graph.vercel.app/graph?username=csbarcellos-tk&bg_color=0d0d0d&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true&area_color=001a0d" />
-
-### `whoami`
-
-```typescript
-const dev = {
-  nome:      "Cauã Barcellos",
-  role:      "Junior Developer",
-  base:      "Salvador, Bahia 🇧🇷",
-
-  stack: {
-    frontend:  ["React", "JavaScript", "HTML5"],
-    backend:   ["Node.js", "Java", "REST APIs"],
-    dados:     ["MySQL", "Docker"],
-    design:    ["Figma", "UI/UX"],
-  },
-
-  atualmente: "Transformando ideias em produtos reais",
-  aprendendo: ["TypeScript", "Spring Boot", "AWS"],
-  objetivo:   "Construir coisas que importam",
-
-  frase: () => "O código que você escreve hoje " +
-               "é a fundação de amanhã.",
-};
-```
-
-<br clear="right"/>
-
----
-
-## ⚡ Arsenal Tecnológico
+# 👋 Olá! Eu sou o Darlan Pereira
 
 <div align="center">
 
-### 🎯 Domínio Principal
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=26&center=true&vCenter=true&width=800&duration=3000&pause=1000&repeat=true&lines=✨+BEM-VINDO+AO+MEU+PERFIL!;💻+DESENVOLVEDOR+FULL+STACK;🚀+JAVA+%7C+SPRING+BOOT+%7C+REACT;⚡+INOVAÇÃO+E+QUALIDADE+NO+CÓDIGO&font=Fira%20Code)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-%2300ff9d.svg?style=for-the-badge&logo=node.js&logoColor=0d0d0d)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🛠️ Infra & Dados
-
-![Docker](https://img.shields.io/badge/Docker-%2300ff9d.svg?style=for-the-badge&logo=docker&logoColor=0d0d0d)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%2300ff9d.svg?style=for-the-badge&logo=git&logoColor=0d0d0d)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 🎨 Design & Testes
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=00BFFF&height=120&section=header" />
 
 </div>
 
 ---
 
-## 📊 Números que Não Mentem
+## 👨‍💻 Sobre Mim
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=csbarcellos-tk&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00ff9d&title_color=00ff9d&text_color=ffffff&bg_color=0d0d0d&border_color=00ff9d&rank_icon=percentile" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csbarcellos-tk&theme=github_dark&hide_border=true&layout=donut&langs_count=8&title_color=00ff9d&text_color=ffffff&bg_color=0d0d0d" />
-</div>
 
-<br/>
+🚀 **Desenvolvedor Full Stack** | 21 anos | Apaixonado por tecnologia e boas soluções de software
 
-<div align="center">
-  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=csbarcellos-tk&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=888888&dates=888888&stroke=1a1a1a" />
+Atuo em todo o ciclo de desenvolvimento — do **backend** (APIs robustas com Java e Spring Boot) ao **frontend** (interfaces modernas com React) — construindo produtos completos, escaláveis e de fácil manutenção.
+
 </div>
 
 ---
 
-## 🏆 Troféus
+## 🎯 Objetivo
 
 <div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=csbarcellos-tk&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+Consolidar-me como **desenvolvedor Full Stack**, aprofundando conhecimento em arquitetura de software, microsserviços e cloud computing, e entregando soluções de ponta a ponta com qualidade e performance.
+
 </div>
 
 ---
 
-## 🗺️ Mapa de Atividade
+## 🛠️ Tech Stack
+
+### 💻 Linguagens
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=csbarcellos-tk&bg_color=0d0d0d&color=00ff9d&line=00cc7a&point=00ff9d&area=true&hide_border=true&area_color=001a0d&custom_title=Histórico%20de%20Contribuições" />
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+
+</div>
+
+### ⚡ Frameworks & Bibliotecas
+
+<div align="center">
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+
+</div>
+
+### 🗄️ Banco de Dados
+
+<div align="center">
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
+
+</div>
+
+### 🔧 Ferramentas & Plataformas
+
+<div align="center">
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows"/>
+
 </div>
 
 ---
 
-## 🐍 Snake do Contribuições
+## 🚀 Expandindo Conhecimentos
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/csbarcellos-tk/csbarcellos-tk/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
-> ⚠️ Esse "snake" precisa de um GitHub Action configurado no repositório (`Platane/snk`) gerando o SVG no branch `output`. Se ainda não tiver, posso te passar o passo a passo do workflow.
+<img src="https://img.shields.io/badge/Cloud-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00BFFF" />
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00BFFF" />
+<img src="https://img.shields.io/badge/Microsserviços-000000?style=for-the-badge&logo=apachekafka&logoColor=00BFFF" />
+
+</div>
 
 ---
 
-## 📌 Repositórios em Destaque
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=csbarcellos-tk&repo=SEU_REPO_1&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00ff9d&icon_color=00ff9d&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=csbarcellos-tk&repo=SEU_REPO_2&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00ff9d&icon_color=00ff9d&text_color=ffffff" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&title_color=00BFFF&icon_color=00BFFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&title_color=00BFFF" />
+
 </div>
 
-> ⚠️ Troque `SEU_REPO_1` e `SEU_REPO_2` pelos nomes reais dos seus repositórios.
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true&ring=00BFFF&fire=00BFFF" />
+
+</div>
+
+> ⚠️ Troque `SEU_USUARIO` pelo seu usuário do GitHub nos três links acima para os cards funcionarem.
 
 ---
 
-## 💬 Sabedoria do Dia
+## 🌐 Contato
 
 <div align="center">
-  <img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d0d0d&border_color=00ff9d" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlan-pereira-6b43801b5)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/freitas_dan_n)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freitasdarlan5@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
 
-### 🎯 Próxima Missão
+💡 *"Transformando ideias em código, e código em soluções."*
 
-```
-  [ ] TypeScript avançado
-  [ ] Spring Boot + Microsserviços  
-  [ ] AWS Cloud Practitioner
-  [ ] Primeiro SaaS próprio
-  [x] Nunca parar de aprender
-```
-
-### 💡 Filosofia
-
-> *"Não espere estar pronto. Você nunca vai estar. Comece agora."*
-
-<br/>
-
-**⚡ Open to work · Aberto a freelas · Bora construir algo incrível juntos**
-
-<br/>
-
-<a href="mailto:cauasousa9911@gmail.com">
-  <img src="https://img.shields.io/badge/📩%20Me%20manda%20uma%20msg-00ff9d?style=for-the-badge&labelColor=0d0d0d" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer&text=Obrigado+pela+visita!&fontSize=20&fontColor=000000" />
 
 </div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:0d0d0d,50:001a0d,100:0d0d0d&section=footer&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20%26%20muito%20caf%C3%A9&fontSize=20&fontColor=00ff9d&animation=twinkling" />
