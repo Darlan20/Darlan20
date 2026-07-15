@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou o Darlan Pereira
+#Olá! Eu sou o Darlan Pereira
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=26&center=true&vCenter=true&width=800&duration=3000&pause=1000&repeat=true&lines=✨+BEM-VINDO+AO+MEU+PERFIL!;💻+DESENVOLVEDOR+FULL+STACK;🚀+JAVA+%7C+SPRING+BOOT+%7C+REACT;⚡+INOVAÇÃO+E+QUALIDADE+NO+CÓDIGO&font=Fira%20Code)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=26&center=true&vCenter=true&width=800&duration=3000&pause=1000&repeat=true&lines=+BEM-VINDO+AO+MEU+PERFIL!;💻+DESENVOLVEDOR+FULL+STACK;🚀+JAVA+%7C+SPRING+BOOT+%7C+REACT;+INOVAÇÃO+E+QUALIDADE+NO+CÓDIGO&font=Fira%20Code)
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=00BFFF&height=120&section=header" />
 
@@ -10,11 +10,11 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+##Sobre Mim
 
 <div align="center">
 
-🚀 **Desenvolvedor Full Stack** | 21 anos | Apaixonado por tecnologia e boas soluções de software
+ **Desenvolvedor Full Stack** | 21 anos | Apaixonado por tecnologia e boas soluções de software
 
 Atuo em todo o ciclo de desenvolvimento — do **backend** (APIs robustas com Java e Spring Boot) ao **frontend** (interfaces modernas com React) — construindo produtos completos, escaláveis e de fácil manutenção.
 
@@ -22,7 +22,7 @@ Atuo em todo o ciclo de desenvolvimento — do **backend** (APIs robustas com Ja
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 <div align="center">
 
@@ -32,9 +32,9 @@ Consolidar-me como **desenvolvedor Full Stack**, aprofundando conhecimento em ar
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Linguagens
+### Linguagens
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Consolidar-me como **desenvolvedor Full Stack**, aprofundando conhecimento em ar
 
 ---
 
-## 🚀 Expandindo Conhecimentos
+##Expandindo Conhecimentos
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Consolidar-me como **desenvolvedor Full Stack**, aprofundando conhecimento em ar
 
 ---
 
-## 📊 Estatísticas do GitHub
+##Estatísticas do GitHub
 
 <div align="center">
 
@@ -110,11 +110,7 @@ Consolidar-me como **desenvolvedor Full Stack**, aprofundando conhecimento em ar
 
 </div>
 
-> ⚠️ Troque `SEU_USUARIO` pelo seu usuário do GitHub nos três links acima para os cards funcionarem.
-
----
-
-## 🌐 Contato
+##Contato
 
 <div align="center">
 
