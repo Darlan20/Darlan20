@@ -1,4 +1,4 @@
-# 👨‍💻 Darlan Pereira
+# ⚙ Darlan Pereira
 
 <div align="center">
 
