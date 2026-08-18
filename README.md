@@ -194,8 +194,6 @@ O projeto foi criado com foco na organização de tarefas e na aplicação prát
 Conceitos
 Java · Android · CRUD · Interface · Persistência de Dados · Arquitetura
 
-📊 GitHub Analytics
-<div align="center"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Darlan20&theme=merko&hide_border=true" /></div>
 📈 Atividade no GitHub
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Darlan20&theme=github&hide_border=true&area=true&color=00FF7F&line=00FF7F&point=006400" /></div>
 🧩 Competências
@@ -238,4 +236,4 @@ Clique em Falar comigo para abrir seu aplicativo de e-mail com uma mensagem inic
 Code · Learn · Build · Improve
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:00FF7F&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=22&fontColor=FFFFFF&animation=twinkling" /></div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:00FF7F&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=22&fontColor=FFFFFF&animation=twinkling" /></div> 
