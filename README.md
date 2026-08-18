@@ -341,10 +341,6 @@ O projeto foi criado com foco na organização de tarefas e na aplicação prát
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Darlan20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlan20&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-
 </div>
 
 <br>
@@ -437,10 +433,6 @@ Desenvolvimento de sistemas · Programação · Banco de Dados · Desenvolviment
 
 <a href="mailto:freitasdarlan5@gmail.com?subject=Contato%20atrav%C3%A9s%20do%20GitHub&body=Ol%C3%A1%20Darlan%2C%0A%0AEncontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA.%0A%0AMeu%20nome%20%C3%A9%3A%20%0A%0AEstou%20entrando%20em%20contato%20sobre%3A%20%0A%0AMinha%20mensagem%3A%20%0A%0AObrigado!">
 <img src="https://img.shields.io/badge/Email-Falar%20comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Darlan20/SupportFlowdemo">
-<img src="https://img.shields.io/badge/SupportFlow-Ver%20projeto-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/freitas_dan_n">
