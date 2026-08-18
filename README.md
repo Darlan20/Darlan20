@@ -327,14 +327,6 @@ O projeto foi criado com foco na organização de tarefas e na aplicação prát
 
 `Java` · `Android` · `CRUD` · `Interface` · `Persistência de Dados` · `Arquitetura`
 
-<div align="center">
-
-<a href="https://github.com/Darlan20">
-<img src="https://img.shields.io/badge/🔗%20VER%20PROJETOS-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
 ---
 
 # 📊 GitHub Analytics
