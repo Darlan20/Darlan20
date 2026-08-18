@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0066FF&height=180&section=header&text=DARLAN%20PEREIRA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/Darlan20">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Construindo+APIs+e+aplica%C3%A7%C3%B5es+modernas;Clean+Code+%7C+Boas+pr%C3%A1ticas+%7C+Arquitetura;Sempre+aprendendo%2C+sempre+evoluindo." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+%7C+%7C;Construindo+APIs+e+aplica%C3%A7%C3%B5es+modernas;Clean+Code+%7C+Boas+pr%C3%A1ticas+%7C+Arquitetura;Sempre+aprendendo%2C+sempre+evoluindo." />
 </a>
 
 <br>
